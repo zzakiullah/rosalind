@@ -4,3 +4,5 @@
 function rabbits_and_recurrence()
     print("Rabbits and recurrence")
 end
+
+rabbits_and_recurrence()
